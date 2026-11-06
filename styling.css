@@ -502,23 +502,11 @@ hr {
   margin-top: 23px;
 }
 
-.pills {
-  background-color: #292525;
-  border-radius: 12px;
-  padding: 10px 16px;
-  display: inline-flex;
-  margin-bottom: 60px;
-}
 
-.pills img {
-  display: block;
-  width: 100%;
-  max-width: 400px;
-  height: auto;
-}
 
 .stack {
   position: relative;
+  margin-top: 40px;
 }
 
 .top {
